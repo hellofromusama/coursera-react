@@ -40,6 +40,8 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-react-app": "^7.0.1"
+    "bootstrap-social": "^5.1.1",
+    "eslint-config-react-app": "^7.0.1",
+    "font-awesome": "^4.7.0"
   }
 }
